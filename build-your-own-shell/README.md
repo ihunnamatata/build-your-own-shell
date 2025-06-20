@@ -4,7 +4,7 @@ This project is a simplified command-line shell interface written in Python. It 
 
 ---
 
-## 📌 What It Can Do
+##  What It Can Do
 
 - Show a dynamic prompt with your current working directory
 - Run shell commands (e.g., `ls`, `echo`, `whoami`)
@@ -14,7 +14,7 @@ This project is a simplified command-line shell interface written in Python. It 
 
 ---
 
-## 🎯 Why It Matters
+##  Why It Matters
 
 In high-performance computing (HPC), simulation clusters are controlled entirely through shell environments.  
 This mini-shell introduces:
@@ -24,9 +24,9 @@ This mini-shell introduces:
 
 ---
 
-## 🧠 Clinical Research Relevance
+##  Clinical Research Relevance
 
-If you're running:
+When running:
 - MRI simulation with OpenFOAM
 - Surgical planning jobs with Slurm on a cluster
 - Remote imaging batch processing
@@ -38,7 +38,7 @@ This project helps you understand:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 cd src/
@@ -61,7 +61,7 @@ exit
 
 ---
 
-## 👩🏾‍⚕️ Author
+## Author
 
 **Ihunna Amugo**  
 DDS Candidate | MHA | MS | REHS | PhD(c) Computational Engineering  
